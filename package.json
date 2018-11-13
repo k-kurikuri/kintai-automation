@@ -1,0 +1,20 @@
+{
+  "name": "kintai-automation",
+  "version": "1.0.0",
+  "description": "kintai automation Google App Script",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push-watch": "clasp push --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@google/clasp": "^1.6.3",
+    "tslint": "^5.11.0"
+  },
+  "dependencies": {
+    "@types/google-apps-script": "0.0.31"
+  }
+}
